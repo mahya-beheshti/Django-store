@@ -49,7 +49,8 @@ Storefront is a Django-based e-commerce web application that simulates a basic s
 
 ## 🔑 Admin Access
 
-Create a superuser to access the Django admin panel:
+**Create a superuser to access the Django admin panel:**
+1. Run this command in your terminal (make sure you're in the project directory with manage.py):
     ```bash
     python manage.py createsuperuser
     ```
